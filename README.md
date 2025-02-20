@@ -36,7 +36,7 @@ pip install streamlit pandas numpy seaborn matplotlib
  │   ├── sector_data.csv  # Sector classification data
  ├── 📂 output
  │   ├── 📂 individual_output_csv  # Contains stock data CSVs
- ├── app.py  # Main Streamlit application
+ ├── nifty_50_analysis.py  # Main Streamlit application
  ├── 📂 screenshots  # Folder containing screenshots
 ```
 
