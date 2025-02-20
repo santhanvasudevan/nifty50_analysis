@@ -41,14 +41,9 @@ pip install streamlit pandas numpy seaborn matplotlib
 ```
 
 ## Screenshots
-### Dashboard Overview
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](screenshots/Screenshot1.png)
 
-### Volatility Analysis
-![Volatility Analysis](screenshots/volatility_analysis.png)
-
-### Sector-wise Performance
-![Sector-wise Performance](screenshots/sector_performance.png)
+![Volatility Analysis](screenshots/Screenshot2.png)
 
 ## Data Requirements
 - **Stock Data Files**: CSVs containing columns like `date`, `close`, `Ticker`.
